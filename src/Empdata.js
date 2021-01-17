@@ -1,4 +1,6 @@
 import React from "react";
+import image1 from "./img/mavtar.png"
+import image2 from "./img/favtar.png"
 const Empdata = (props) => {
   const { people } = props;
   let currDate = new Date();
@@ -29,7 +31,7 @@ const Empdata = (props) => {
       return (      
         <article key={id} className="person">
           
-          <img src={image} alt={name} />
+          <img src={gender=="Male" ? image1 : image2} alt={name} />
             <div>
               <h4>{name}</h4>
               <p>Gender: {gender}</p>
