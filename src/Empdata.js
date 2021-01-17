@@ -1,7 +1,6 @@
 import React from "react";
 const Empdata = (props) => {
   const { people } = props;
-  // let curDate = new Date().toLocaleDateString();
   let currDate = new Date();
       let cDate = currDate.getDate();  
       let cDate1 = cDate < 10 ? `0${cDate}` : `${cDate}`;
@@ -19,7 +18,7 @@ const Empdata = (props) => {
       month[10] = "November";
       month[11] = "December";
       let cMonth = month[currDate.getMonth()];
-      let actCDate = `${cDate1} ${cMonth}`;    // actDate = actual Date
+      let actCDate = `${cDate1} ${cMonth}`;    
         console.log("current:", actCDate)
         return people.map((item) => {
           const { id, name, dob, gender, image } = item;    

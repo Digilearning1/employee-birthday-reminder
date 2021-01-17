@@ -1,9 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import './index.css'
-import './index_blue.css'
-// import './index_brown.css'
-// import './index_cyan.css'
+import './index.css'
 
 const Home = () => {
     return (
@@ -16,5 +13,4 @@ const Home = () => {
     </main>
     )
 }
-
 export default Home

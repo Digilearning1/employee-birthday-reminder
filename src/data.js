@@ -1,6 +1,5 @@
 
-export default [
-	
+export default [	
 	{
 		id: 1,
 		name: 'Ram Sumiran',
@@ -45,7 +44,6 @@ export default [
 		id: 6,
 		name: 'Tariq Pervez',
 		dob:"06 January",
-		age: 36,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 		
@@ -54,7 +52,6 @@ export default [
 		id: 7,
 		name: 'Preeti Sawant',
 		dob:"07 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -62,7 +59,6 @@ export default [
 		id: 8,
 		name: 'Shipra Gupta',
 		dob:"07 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -70,7 +66,6 @@ export default [
 		id: 9,
 		name: 'Vishwanath Pratap Singh',
 		dob:"10 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -78,7 +73,6 @@ export default [
 		id: 10,
 		name: 'Sudeep Malik',
 		dob:"10 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -86,7 +80,6 @@ export default [
 		id: 11,
 		name: 'Raj Kumar',
 		dob:"12 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -94,7 +87,6 @@ export default [
 		id: 12,
 		name: 'Rajan Sharma',
 		dob:"12 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -102,7 +94,6 @@ export default [
 		id: 13,
 		name: 'Praveen Kumar Yadav',
 		dob:"13 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -110,7 +101,6 @@ export default [
 		id: 14,
 		name: 'Abhishek Rajpoot',
 		dob:"13 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -118,7 +108,6 @@ export default [
 		id: 15,
 		name: 'Bitu Kumar Singh',
 		dob:"15 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -126,7 +115,6 @@ export default [
 		id: 16,
 		name: 'Pallavi Srivastava',
 		dob:"15 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -134,7 +122,6 @@ export default [
 		id: 17,
 		name: 'Ranu Kumar',
 		dob:"16 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -142,7 +129,6 @@ export default [
 		id: 18,
 		name: 'Aastha Sharma',
 		dob:"17 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -150,7 +136,6 @@ export default [
 		id: 19,
 		name: 'Sneha Gupta',
 		dob:"17 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -158,7 +143,6 @@ export default [
 		id: 20,
 		name: 'Sunita Kumari',
 		dob:"21 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -166,7 +150,6 @@ export default [
 		id: 21,
 		name: 'Shashi Shekhar Srivastava',
 		dob:"21 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -174,7 +157,6 @@ export default [
 		id: 22,
 		name: 'Ashish Kumar Bhola',
 		dob:"22 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -182,7 +164,6 @@ export default [
 		id: 23,
 		name: 'Abhinandan Sir',
 		dob:"23 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -190,7 +171,6 @@ export default [
 		id: 24,
 		name: 'Deepti Varma',
 		dob:"23 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -198,7 +178,6 @@ export default [
 		id: 25,
 		name: 'Virendra Kumar',
 		dob:"24 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -206,7 +185,6 @@ export default [
 		id: 26,
 		name: 'Sonia Mishra',
 		dob:"26 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
@@ -214,7 +192,6 @@ export default [
 		id: 27,
 		name: 'Ramsajeevan Kushwaha',
 		dob:"26 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -222,7 +199,6 @@ export default [
 		id: 28,
 		name: 'Ashish Kumar',
 		dob:"26 January",
-		age: 50,
 		gender: "Male",
 		image: '/img/male_avtar.png'
 	},
@@ -230,7 +206,6 @@ export default [
 		id: 29,
 		name: 'Pinkal Srivastava',
 		dob:"29 January",
-		age: 50,
 		gender: "Female",
 		image: '/img/female_avtar.png'
 	},
