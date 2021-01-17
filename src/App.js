@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
-import { Route, Switch } from 'react-router-dom';
+import React from 'react'
+import { Redirect, Route, Switch } from 'react-router-dom';
 import Empbirthday from './Empbirthday';
 import Empdetails from './Empdetails';
-import Error from './Error';
 import Home from './Home';
 
 const App = () => {
@@ -12,7 +11,7 @@ const App = () => {
             <Route path="/" component={Home} exact />
             <Route path="/empdetails" component={Empdetails} exact />
             <Route path="/empbirthday" component={Empbirthday} exact />
-            <Route component={Error} />
+            <Redirect to="/" />
         </Switch>
     </main>
     )
